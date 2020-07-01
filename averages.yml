@@ -1,0 +1,1965 @@
+---
+acacia_door_bottom.png:
+- 117
+- 65
+- 41
+acacia_door_top.png:
+- 120
+- 68
+- 43
+acacia_leaves.png:
+- 86
+- 85
+- 85
+acacia_log.png:
+- 103
+- 96
+- 86
+acacia_log_top.png:
+- 150
+- 88
+- 55
+acacia_planks.png:
+- 168
+- 90
+- 50
+acacia_sapling.png:
+- 51
+- 51
+- 10
+acacia_trapdoor.png:
+- 119
+- 66
+- 39
+activator_rail.png:
+- 70
+- 53
+- 45
+activator_rail_on.png:
+- 87
+- 53
+- 45
+allium.png:
+- 35
+- 34
+- 44
+ancient_debris_side.png:
+- 95
+- 63
+- 55
+ancient_debris_top.png:
+- 94
+- 66
+- 58
+andesite.png:
+- 136
+- 136
+- 136
+anvil.png:
+- 68
+- 68
+- 68
+anvil_top.png:
+- 45
+- 45
+- 45
+attached_melon_stem.png:
+- 18
+- 18
+- 18
+attached_pumpkin_stem.png:
+- 17
+- 17
+- 17
+azure_bluet.png:
+- 39
+- 48
+- 38
+bamboo.png:
+- 214
+- 223
+- 201
+bamboo_large_leaves.png:
+- 78
+- 125
+- 27
+bamboo_singleleaf.png:
+- 240
+- 244
+- 234
+bamboo_small_leaves.png:
+- 121
+- 148
+- 93
+bamboo_stage0.png:
+- 214
+- 215
+- 201
+bamboo_stalk.png:
+- 93
+- 144
+- 19
+barrel_bottom.png:
+- 121
+- 89
+- 51
+barrel_side.png:
+- 107
+- 81
+- 50
+barrel_top.png:
+- 134
+- 100
+- 58
+barrel_top_open.png:
+- 92
+- 67
+- 34
+basalt_side.png:
+- 73
+- 72
+- 77
+basalt_top.png:
+- 80
+- 81
+- 86
+beacon.png:
+- 117
+- 220
+- 215
+bedrock.png:
+- 85
+- 85
+- 85
+beehive_end.png:
+- 180
+- 146
+- 90
+beehive_front.png:
+- 159
+- 128
+- 77
+beehive_front_honey.png:
+- 167
+- 131
+- 74
+beehive_side.png:
+- 157
+- 126
+- 75
+beetroots_stage0.png:
+- 3
+- 8
+- 2
+beetroots_stage1.png:
+- 7
+- 16
+- 4
+beetroots_stage2.png:
+- 23
+- 44
+- 13
+beetroots_stage3.png:
+- 42
+- 41
+- 13
+bee_nest_bottom.png:
+- 160
+- 127
+- 87
+bee_nest_front.png:
+- 183
+- 141
+- 76
+bee_nest_front_honey.png:
+- 194
+- 151
+- 75
+bee_nest_side.png:
+- 196
+- 150
+- 77
+bee_nest_top.png:
+- 202
+- 160
+- 74
+bell_top.png:
+- 63
+- 58
+- 27
+birch_door_bottom.png:
+- 208
+- 194
+- 144
+birch_door_top.png:
+- 220
+- 209
+- 176
+birch_leaves.png:
+- 73
+- 72
+- 73
+birch_log.png:
+- 216
+- 215
+- 210
+birch_log_top.png:
+- 193
+- 179
+- 135
+birch_planks.png:
+- 192
+- 175
+- 121
+birch_sapling.png:
+- 48
+- 61
+- 30
+birch_trapdoor.png:
+- 207
+- 194
+- 157
+blackstone.png:
+- 42
+- 35
+- 40
+blackstone_top.png:
+- 42
+- 36
+- 41
+black_concrete.png:
+- 8
+- 10
+- 15
+black_concrete_powder.png:
+- 25
+- 26
+- 31
+black_glazed_terracotta.png:
+- 67
+- 30
+- 32
+black_shulker_box.png:
+- 25
+- 25
+- 29
+black_stained_glass.png:
+- 25
+- 25
+- 25
+black_terracotta.png:
+- 37
+- 22
+- 16
+black_wool.png:
+- 20
+- 21
+- 25
+blast_furnace_front.png:
+- 107
+- 107
+- 107
+blast_furnace_side.png:
+- 107
+- 107
+- 107
+blast_furnace_top.png:
+- 80
+- 80
+- 81
+blue_concrete.png:
+- 44
+- 46
+- 143
+blue_concrete_powder.png:
+- 70
+- 73
+- 166
+blue_glazed_terracotta.png:
+- 47
+- 64
+- 139
+blue_ice.png:
+- 116
+- 167
+- 253
+blue_orchid.png:
+- 8
+- 27
+- 28
+blue_shulker_box.png:
+- 43
+- 45
+- 140
+blue_stained_glass.png:
+- 51
+- 76
+- 178
+blue_terracotta.png:
+- 74
+- 59
+- 91
+blue_wool.png:
+- 53
+- 57
+- 157
+bone_block_side.png:
+- 229
+- 225
+- 207
+bone_block_top.png:
+- 209
+- 206
+- 179
+bookshelf.png:
+- 117
+- 94
+- 59
+brain_coral.png:
+- 86
+- 37
+- 66
+brain_coral_block.png:
+- 207
+- 91
+- 159
+brewing_stand_base.png:
+- 116
+- 105
+- 105
+bricks.png:
+- 150
+- 97
+- 83
+brown_concrete.png:
+- 96
+- 59
+- 31
+brown_concrete_powder.png:
+- 125
+- 84
+- 53
+brown_glazed_terracotta.png:
+- 119
+- 106
+- 85
+brown_mushroom_block.png:
+- 149
+- 111
+- 81
+brown_shulker_box.png:
+- 106
+- 66
+- 35
+brown_stained_glass.png:
+- 102
+- 76
+- 51
+brown_terracotta.png:
+- 77
+- 51
+- 35
+brown_wool.png:
+- 114
+- 71
+- 40
+bubble_coral_block.png:
+- 165
+- 26
+- 162
+cactus_bottom.png:
+- 109
+- 130
+- 65
+cactus_side.png:
+- 78
+- 115
+- 40
+cactus_top.png:
+- 65
+- 97
+- 33
+cake_bottom.png:
+- 102
+- 47
+- 24
+cake_top.png:
+- 189
+- 170
+- 164
+cartography_table_side1.png:
+- 72
+- 50
+- 34
+cartography_table_side2.png:
+- 82
+- 61
+- 42
+cartography_table_side3.png:
+- 69
+- 43
+- 20
+cartography_table_top.png:
+- 104
+- 87
+- 67
+carved_pumpkin.png:
+- 150
+- 84
+- 17
+cauldron_inner.png:
+- 49
+- 49
+- 53
+cauldron_side.png:
+- 74
+- 73
+- 74
+chiseled_nether_bricks.png:
+- 47
+- 23
+- 28
+chiseled_polished_blackstone.png:
+- 53
+- 48
+- 56
+chiseled_quartz_block.png:
+- 231
+- 226
+- 218
+chiseled_quartz_block_top.png:
+- 231
+- 226
+- 217
+chiseled_red_sandstone.png:
+- 183
+- 96
+- 27
+chiseled_sandstone.png:
+- 216
+- 202
+- 155
+chiseled_stone_bricks.png:
+- 119
+- 118
+- 119
+chorus_flower.png:
+- 151
+- 120
+- 151
+chorus_flower_dead.png:
+- 96
+- 61
+- 94
+chorus_plant.png:
+- 93
+- 57
+- 93
+clay.png:
+- 160
+- 166
+- 179
+coal_block.png:
+- 16
+- 15
+- 15
+coal_ore.png:
+- 116
+- 116
+- 116
+coarse_dirt.png:
+- 119
+- 85
+- 59
+cobblestone.png:
+- 127
+- 127
+- 127
+comparator.png:
+- 166
+- 161
+- 159
+comparator_on.png:
+- 175
+- 161
+- 159
+composter_bottom.png:
+- 116
+- 71
+- 32
+composter_compost.png:
+- 161
+- 146
+- 124
+composter_ready.png:
+- 177
+- 163
+- 143
+composter_side.png:
+- 112
+- 70
+- 31
+composter_top.png:
+- 210
+- 186
+- 166
+conduit.png:
+- 201
+- 190
+- 175
+cornflower.png:
+- 231
+- 236
+- 240
+cracked_nether_bricks.png:
+- 40
+- 20
+- 23
+cracked_polished_blackstone_bricks.png:
+- 43
+- 37
+- 43
+cracked_stone_bricks.png:
+- 118
+- 117
+- 118
+crafting_table_front.png:
+- 129
+- 105
+- 70
+crafting_table_side.png:
+- 128
+- 102
+- 63
+crafting_table_top.png:
+- 119
+- 73
+- 42
+crimson_door_bottom.png:
+- 115
+- 55
+- 79
+crimson_door_top.png:
+- 114
+- 54
+- 79
+crimson_nylium.png:
+- 130
+- 31
+- 31
+crimson_nylium_side.png:
+- 107
+- 26
+- 26
+crimson_planks.png:
+- 101
+- 48
+- 70
+crimson_stem_top.png:
+- 107
+- 51
+- 74
+crossbow_arrow.png:
+- 93
+- 80
+- 69
+crossbow_firework.png:
+- 91
+- 71
+- 66
+crying_obsidian.png:
+- 32
+- 10
+- 60
+cut_red_sandstone.png:
+- 189
+- 101
+- 31
+cut_sandstone.png:
+- 217
+- 206
+- 159
+cyan_concrete.png:
+- 21
+- 119
+- 136
+cyan_concrete_powder.png:
+- 36
+- 147
+- 157
+cyan_glazed_terracotta.png:
+- 52
+- 118
+- 125
+cyan_shulker_box.png:
+- 20
+- 121
+- 135
+cyan_stained_glass.png:
+- 76
+- 127
+- 153
+cyan_terracotta.png:
+- 86
+- 91
+- 91
+cyan_wool.png:
+- 21
+- 137
+- 145
+dark_oak_door_bottom.png:
+- 73
+- 49
+- 23
+dark_oak_door_top.png:
+- 76
+- 51
+- 25
+dark_oak_log.png:
+- 60
+- 46
+- 26
+dark_oak_log_top.png:
+- 64
+- 42
+- 21
+dark_oak_planks.png:
+- 66
+- 43
+- 20
+dark_oak_trapdoor.png:
+- 75
+- 49
+- 23
+dark_prismarine.png:
+- 51
+- 91
+- 75
+daylight_detector_inverted_top.png:
+- 106
+- 109
+- 112
+daylight_detector_side.png:
+- 66
+- 55
+- 35
+daylight_detector_top.png:
+- 130
+- 116
+- 94
+dead_brain_coral_block.png:
+- 124
+- 117
+- 114
+dead_brain_coral_fan.png:
+- 181
+- 177
+- 174
+dead_bubble_coral_block.png:
+- 131
+- 123
+- 119
+dead_bubble_coral_fan.png:
+- 193
+- 189
+- 187
+dead_fire_coral_block.png:
+- 131
+- 123
+- 119
+dead_fire_coral_fan.png:
+- 170
+- 166
+- 164
+dead_horn_coral_block.png:
+- 133
+- 126
+- 122
+dead_horn_coral_fan.png:
+- 190
+- 185
+- 183
+dead_tube_coral_block.png:
+- 130
+- 123
+- 119
+dead_tube_coral_fan.png:
+- 202
+- 199
+- 198
+destroy_stage_0.png:
+- 252
+- 252
+- 252
+destroy_stage_1.png:
+- 248
+- 248
+- 248
+destroy_stage_2.png:
+- 243
+- 243
+- 243
+destroy_stage_3.png:
+- 238
+- 238
+- 238
+destroy_stage_4.png:
+- 230
+- 230
+- 230
+destroy_stage_5.png:
+- 222
+- 222
+- 222
+destroy_stage_6.png:
+- 212
+- 212
+- 212
+destroy_stage_7.png:
+- 195
+- 195
+- 195
+destroy_stage_8.png:
+- 177
+- 177
+- 177
+destroy_stage_9.png:
+- 167
+- 167
+- 167
+diamond_block.png:
+- 98
+- 237
+- 228
+diamond_ore.png:
+- 125
+- 142
+- 141
+diorite.png:
+- 188
+- 188
+- 188
+dirt.png:
+- 134
+- 96
+- 67
+dispenser_front.png:
+- 122
+- 121
+- 121
+dispenser_front_vertical.png:
+- 98
+- 97
+- 97
+dragon_egg.png:
+- 12
+- 9
+- 15
+dried_kelp.png:
+- 110
+- 107
+- 102
+dried_kelp_bottom.png:
+- 50
+- 58
+- 38
+dried_kelp_side.png:
+- 38
+- 48
+- 29
+dried_kelp_top.png:
+- 50
+- 58
+- 38
+dropper_front.png:
+- 122
+- 121
+- 121
+dropper_front_vertical.png:
+- 97
+- 96
+- 96
+emerald_block.png:
+- 42
+- 203
+- 87
+emerald_ore.png:
+- 117
+- 136
+- 124
+enchanting_table_bottom.png:
+- 15
+- 10
+- 24
+enchanting_table_top.png:
+- 128
+- 75
+- 85
+end_portal_frame_top.png:
+- 91
+- 120
+- 97
+end_stone.png:
+- 219
+- 222
+- 158
+end_stone_bricks.png:
+- 218
+- 224
+- 162
+farmland.png:
+- 143
+- 102
+- 70
+farmland_moist.png:
+- 81
+- 44
+- 15
+fire_coral_block.png:
+- 163
+- 35
+- 46
+fletching_table_front.png:
+- 173
+- 155
+- 111
+fletching_table_side.png:
+- 191
+- 167
+- 129
+fletching_table_top.png:
+- 197
+- 180
+- 133
+frosted_ice_0.png:
+- 140
+- 181
+- 252
+frosted_ice_1.png:
+- 139
+- 180
+- 252
+frosted_ice_2.png:
+- 138
+- 179
+- 252
+frosted_ice_3.png:
+- 135
+- 178
+- 252
+furnace_front.png:
+- 91
+- 91
+- 91
+furnace_front_on.png:
+- 121
+- 112
+- 93
+furnace_side.png:
+- 120
+- 120
+- 120
+furnace_top.png:
+- 110
+- 109
+- 109
+gilded_blackstone.png:
+- 56
+- 43
+- 38
+glass.png:
+- 140
+- 149
+- 151
+glowstone.png:
+- 171
+- 131
+- 84
+gold_block.png:
+- 246
+- 208
+- 61
+gold_ore.png:
+- 143
+- 140
+- 125
+granite.png:
+- 149
+- 103
+- 85
+grass_block_side.png:
+- 126
+- 107
+- 65
+grass_block_snow.png:
+- 169
+- 150
+- 133
+grass_block_top.png:
+- 147
+- 147
+- 147
+grass_path_top.png:
+- 148
+- 121
+- 65
+gravel.png:
+- 131
+- 127
+- 126
+gray_concrete.png:
+- 54
+- 57
+- 61
+gray_concrete_powder.png:
+- 76
+- 81
+- 84
+gray_glazed_terracotta.png:
+- 83
+- 90
+- 93
+gray_shulker_box.png:
+- 55
+- 58
+- 62
+gray_stained_glass.png:
+- 76
+- 76
+- 76
+gray_terracotta.png:
+- 57
+- 42
+- 35
+gray_wool.png:
+- 62
+- 68
+- 71
+green_concrete.png:
+- 73
+- 91
+- 36
+green_concrete_powder.png:
+- 97
+- 119
+- 44
+green_glazed_terracotta.png:
+- 117
+- 142
+- 67
+green_shulker_box.png:
+- 79
+- 100
+- 31
+green_stained_glass.png:
+- 102
+- 127
+- 51
+green_terracotta.png:
+- 76
+- 83
+- 42
+green_wool.png:
+- 84
+- 109
+- 27
+hay_block_side.png:
+- 166
+- 136
+- 38
+hay_block_top.png:
+- 165
+- 139
+- 12
+honeycomb_block.png:
+- 229
+- 148
+- 29
+honey_block_bottom.png:
+- 241
+- 146
+- 17
+honey_block_side.png:
+- 250
+- 188
+- 57
+honey_block_top.png:
+- 251
+- 185
+- 52
+hopper_inside.png:
+- 49
+- 49
+- 53
+hopper_outside.png:
+- 66
+- 65
+- 68
+horn_coral_block.png:
+- 216
+- 199
+- 66
+ice.png:
+- 145
+- 183
+- 253
+iron_block.png:
+- 220
+- 220
+- 220
+iron_door_bottom.png:
+- 195
+- 194
+- 194
+iron_ore.png:
+- 136
+- 130
+- 127
+item_frame.png:
+- 116
+- 67
+- 42
+jack_o_lantern.png:
+- 214
+- 152
+- 52
+jigsaw_bottom.png:
+- 34
+- 27
+- 37
+jigsaw_lock.png:
+- 45
+- 38
+- 47
+jigsaw_side.png:
+- 62
+- 53
+- 63
+jigsaw_top.png:
+- 80
+- 69
+- 81
+jukebox_side.png:
+- 88
+- 58
+- 40
+jukebox_top.png:
+- 93
+- 64
+- 47
+jungle_door_bottom.png:
+- 158
+- 113
+- 78
+jungle_log.png:
+- 85
+- 67
+- 25
+jungle_log_top.png:
+- 149
+- 109
+- 70
+jungle_planks.png:
+- 160
+- 115
+- 80
+lapis_block.png:
+- 30
+- 67
+- 140
+lapis_ore.png:
+- 99
+- 110
+- 132
+large_fern_bottom.png:
+- 170
+- 170
+- 170
+lectern_base.png:
+- 163
+- 122
+- 75
+lectern_front.png:
+- 129
+- 100
+- 55
+lectern_sides.png:
+- 149
+- 117
+- 67
+lectern_top.png:
+- 173
+- 137
+- 83
+light_blue_concrete.png:
+- 35
+- 137
+- 198
+light_blue_concrete_powder.png:
+- 74
+- 180
+- 213
+light_blue_glazed_terracotta.png:
+- 94
+- 164
+- 208
+light_blue_shulker_box.png:
+- 49
+- 163
+- 212
+light_blue_stained_glass.png:
+- 102
+- 153
+- 216
+light_blue_terracotta.png:
+- 113
+- 108
+- 137
+light_blue_wool.png:
+- 58
+- 175
+- 217
+light_gray_concrete.png:
+- 125
+- 125
+- 115
+light_gray_concrete_powder.png:
+- 154
+- 154
+- 148
+light_gray_glazed_terracotta.png:
+- 144
+- 166
+- 167
+light_gray_shulker_box.png:
+- 124
+- 124
+- 115
+light_gray_stained_glass.png:
+- 153
+- 153
+- 153
+light_gray_terracotta.png:
+- 135
+- 106
+- 97
+light_gray_wool.png:
+- 142
+- 142
+- 134
+lily_of_the_valley.png:
+- 223
+- 235
+- 216
+lime_concrete.png:
+- 94
+- 168
+- 24
+lime_concrete_powder.png:
+- 125
+- 189
+- 41
+lime_glazed_terracotta.png:
+- 162
+- 197
+- 55
+lime_shulker_box.png:
+- 99
+- 172
+- 23
+lime_stained_glass.png:
+- 127
+- 204
+- 25
+lime_terracotta.png:
+- 103
+- 117
+- 52
+lime_wool.png:
+- 112
+- 185
+- 25
+lodestone_side.png:
+- 119
+- 119
+- 123
+lodestone_top.png:
+- 147
+- 149
+- 152
+loom_bottom.png:
+- 76
+- 60
+- 36
+loom_front.png:
+- 148
+- 118
+- 82
+loom_side.png:
+- 145
+- 101
+- 72
+loom_top.png:
+- 142
+- 119
+- 91
+magenta_concrete.png:
+- 169
+- 48
+- 159
+magenta_concrete_powder.png:
+- 192
+- 83
+- 184
+magenta_glazed_terracotta.png:
+- 208
+- 100
+- 191
+magenta_shulker_box.png:
+- 173
+- 54
+- 163
+magenta_stained_glass.png:
+- 178
+- 76
+- 216
+magenta_terracotta.png:
+- 149
+- 88
+- 108
+magenta_wool.png:
+- 189
+- 68
+- 179
+melon_side.png:
+- 114
+- 146
+- 30
+melon_top.png:
+- 111
+- 144
+- 30
+mossy_cobblestone.png:
+- 110
+- 118
+- 94
+mossy_stone_bricks.png:
+- 115
+- 121
+- 105
+mushroom_block_inside.png:
+- 201
+- 170
+- 120
+mushroom_stem.png:
+- 203
+- 196
+- 185
+mycelium_side.png:
+- 113
+- 87
+- 71
+mycelium_top.png:
+- 111
+- 98
+- 101
+netherite_block.png:
+- 66
+- 61
+- 63
+netherrack.png:
+- 97
+- 38
+- 38
+nether_bricks.png:
+- 44
+- 21
+- 26
+nether_gold_ore.png:
+- 115
+- 54
+- 42
+nether_quartz_ore.png:
+- 117
+- 65
+- 62
+nether_wart_block.png:
+- 114
+- 2
+- 2
+note_block.png:
+- 88
+- 58
+- 40
+oak_door_bottom.png:
+- 138
+- 108
+- 62
+oak_log.png:
+- 109
+- 85
+- 50
+oak_log_top.png:
+- 151
+- 121
+- 73
+oak_planks.png:
+- 162
+- 130
+- 78
+observer_back.png:
+- 71
+- 69
+- 69
+observer_back_on.png:
+- 76
+- 68
+- 68
+observer_side.png:
+- 70
+- 68
+- 68
+observer_top.png:
+- 98
+- 98
+- 98
+obsidian.png:
+- 15
+- 10
+- 24
+orange_concrete.png:
+- 224
+- 97
+- 0
+orange_concrete_powder.png:
+- 227
+- 131
+- 31
+orange_glazed_terracotta.png:
+- 154
+- 147
+- 91
+orange_shulker_box.png:
+- 234
+- 106
+- 8
+orange_stained_glass.png:
+- 216
+- 127
+- 51
+orange_terracotta.png:
+- 161
+- 83
+- 37
+orange_wool.png:
+- 240
+- 118
+- 19
+packed_ice.png:
+- 141
+- 180
+- 250
+pink_concrete.png:
+- 213
+- 101
+- 142
+pink_concrete_powder.png:
+- 228
+- 153
+- 181
+pink_glazed_terracotta.png:
+- 235
+- 154
+- 181
+pink_shulker_box.png:
+- 230
+- 121
+- 157
+pink_stained_glass.png:
+- 242
+- 127
+- 165
+pink_terracotta.png:
+- 161
+- 78
+- 78
+pink_wool.png:
+- 237
+- 141
+- 172
+piston_bottom.png:
+- 97
+- 96
+- 96
+piston_inner.png:
+- 97
+- 97
+- 97
+piston_side.png:
+- 110
+- 104
+- 96
+piston_top.png:
+- 154
+- 127
+- 87
+piston_top_sticky.png:
+- 122
+- 149
+- 92
+podzol_side.png:
+- 122
+- 87
+- 57
+podzol_top.png:
+- 91
+- 63
+- 24
+polished_andesite.png:
+- 132
+- 134
+- 133
+polished_basalt_side.png:
+- 88
+- 88
+- 91
+polished_basalt_top.png:
+- 99
+- 98
+- 100
+polished_blackstone.png:
+- 53
+- 48
+- 56
+polished_blackstone_bricks.png:
+- 46
+- 41
+- 48
+polished_diorite.png:
+- 192
+- 193
+- 194
+polished_granite.png:
+- 154
+- 106
+- 89
+prismarine_bricks.png:
+- 99
+- 171
+- 158
+pumpkin_side.png:
+- 195
+- 114
+- 24
+pumpkin_top.png:
+- 198
+- 118
+- 24
+purple_concrete.png:
+- 100
+- 31
+- 156
+purple_concrete_powder.png:
+- 131
+- 55
+- 177
+purple_glazed_terracotta.png:
+- 109
+- 48
+- 152
+purple_shulker_box.png:
+- 103
+- 32
+- 156
+purple_stained_glass.png:
+- 127
+- 63
+- 178
+purple_terracotta.png:
+- 118
+- 70
+- 86
+purple_wool.png:
+- 121
+- 42
+- 172
+purpur_block.png:
+- 169
+- 125
+- 169
+purpur_pillar.png:
+- 171
+- 129
+- 171
+purpur_pillar_top.png:
+- 171
+- 128
+- 171
+quartz_block_bottom.png:
+- 236
+- 230
+- 223
+quartz_block_side.png:
+- 235
+- 229
+- 222
+quartz_block_top.png:
+- 235
+- 229
+- 222
+quartz_bricks.png:
+- 234
+- 229
+- 221
+quartz_pillar.png:
+- 235
+- 230
+- 224
+quartz_pillar_top.png:
+- 235
+- 229
+- 222
+redstone_block.png:
+- 175
+- 24
+- 5
+redstone_lamp.png:
+- 95
+- 54
+- 30
+redstone_lamp_on.png:
+- 142
+- 101
+- 60
+redstone_ore.png:
+- 133
+- 107
+- 107
+red_concrete.png:
+- 142
+- 32
+- 32
+red_concrete_powder.png:
+- 168
+- 54
+- 50
+red_glazed_terracotta.png:
+- 181
+- 59
+- 53
+red_mushroom_block.png:
+- 200
+- 46
+- 45
+red_nether_bricks.png:
+- 69
+- 7
+- 9
+red_sand.png:
+- 190
+- 102
+- 33
+red_sandstone.png:
+- 186
+- 99
+- 29
+red_sandstone_bottom.png:
+- 185
+- 98
+- 28
+red_sandstone_top.png:
+- 181
+- 97
+- 31
+red_shulker_box.png:
+- 140
+- 31
+- 30
+red_stained_glass.png:
+- 153
+- 51
+- 51
+red_terracotta.png:
+- 143
+- 61
+- 46
+red_wool.png:
+- 160
+- 39
+- 34
+repeater.png:
+- 160
+- 157
+- 156
+repeater_on.png:
+- 169
+- 157
+- 156
+respawn_anchor_bottom.png:
+- 32
+- 10
+- 60
+respawn_anchor_side0.png:
+- 39
+- 23
+- 62
+respawn_anchor_side1.png:
+- 42
+- 26
+- 64
+respawn_anchor_side2.png:
+- 44
+- 28
+- 65
+respawn_anchor_side3.png:
+- 47
+- 30
+- 66
+respawn_anchor_side4.png:
+- 49
+- 32
+- 68
+respawn_anchor_top_off.png:
+- 33
+- 21
+- 52
+sand.png:
+- 219
+- 207
+- 163
+sandstone.png:
+- 216
+- 203
+- 155
+sandstone_bottom.png:
+- 215
+- 202
+- 154
+sandstone_top.png:
+- 223
+- 214
+- 170
+scaffolding_bottom.png:
+- 230
+- 216
+- 173
+scaffolding_top.png:
+- 182
+- 145
+- 96
+sea_pickle.png:
+- 228
+- 230
+- 220
+shroomlight.png:
+- 240
+- 146
+- 70
+shulker_box.png:
+- 139
+- 96
+- 139
+slime_block.png:
+- 111
+- 192
+- 91
+smithing_table_bottom.png:
+- 64
+- 28
+- 23
+smithing_table_front.png:
+- 56
+- 37
+- 38
+smithing_table_side.png:
+- 55
+- 35
+- 35
+smithing_table_top.png:
+- 57
+- 58
+- 70
+smoker_bottom.png:
+- 107
+- 105
+- 103
+smoker_front.png:
+- 87
+- 75
+- 57
+smoker_side.png:
+- 102
+- 91
+- 75
+smoker_top.png:
+- 84
+- 82
+- 80
+smooth_stone.png:
+- 158
+- 158
+- 158
+smooth_stone_slab_side.png:
+- 167
+- 167
+- 167
+snow.png:
+- 249
+- 254
+- 254
+soul_sand.png:
+- 81
+- 62
+- 50
+soul_soil.png:
+- 75
+- 57
+- 46
+sponge.png:
+- 195
+- 192
+- 74
+spruce_door_bottom.png:
+- 105
+- 80
+- 48
+spruce_door_top.png:
+- 106
+- 80
+- 48
+spruce_log.png:
+- 58
+- 37
+- 16
+spruce_log_top.png:
+- 108
+- 80
+- 46
+spruce_planks.png:
+- 114
+- 84
+- 48
+spruce_trapdoor.png:
+- 103
+- 79
+- 47
+stone.png:
+- 125
+- 125
+- 125
+stonecutter_bottom.png:
+- 118
+- 117
+- 118
+stonecutter_top.png:
+- 123
+- 118
+- 111
+stone_bricks.png:
+- 122
+- 121
+- 122
+stripped_acacia_log.png:
+- 174
+- 92
+- 59
+stripped_acacia_log_top.png:
+- 166
+- 91
+- 51
+stripped_birch_log.png:
+- 196
+- 176
+- 118
+stripped_birch_log_top.png:
+- 191
+- 171
+- 116
+stripped_crimson_stem.png:
+- 137
+- 57
+- 90
+stripped_crimson_stem_top.png:
+- 121
+- 56
+- 82
+stripped_dark_oak_log.png:
+- 96
+- 76
+- 49
+stripped_dark_oak_log_top.png:
+- 65
+- 44
+- 22
+stripped_jungle_log.png:
+- 171
+- 132
+- 84
+stripped_jungle_log_top.png:
+- 165
+- 122
+- 81
+stripped_oak_log.png:
+- 177
+- 144
+- 86
+stripped_oak_log_top.png:
+- 160
+- 129
+- 77
+stripped_spruce_log.png:
+- 115
+- 89
+- 52
+stripped_spruce_log_top.png:
+- 105
+- 80
+- 46
+stripped_warped_stem.png:
+- 57
+- 150
+- 147
+stripped_warped_stem_top.png:
+- 52
+- 128
+- 124
+structure_block.png:
+- 88
+- 74
+- 90
+structure_block_corner.png:
+- 68
+- 57
+- 69
+structure_block_data.png:
+- 79
+- 65
+- 80
+structure_block_load.png:
+- 69
+- 57
+- 70
+structure_block_save.png:
+- 86
+- 71
+- 87
+target_side.png:
+- 229
+- 176
+- 168
+target_top.png:
+- 226
+- 170
+- 157
+terracotta.png:
+- 152
+- 94
+- 67
+tnt_bottom.png:
+- 166
+- 66
+- 53
+tnt_side.png:
+- 182
+- 88
+- 84
+tnt_top.png:
+- 142
+- 62
+- 53
+tube_coral_block.png:
+- 49
+- 87
+- 206
+warped_door_bottom.png:
+- 43
+- 118
+- 112
+warped_door_top.png:
+- 44
+- 126
+- 120
+warped_nylium.png:
+- 43
+- 114
+- 101
+warped_nylium_side.png:
+- 72
+- 61
+- 59
+warped_planks.png:
+- 43
+- 104
+- 99
+warped_stem_top.png:
+- 57
+- 103
+- 103
+warped_wart_block.png:
+- 22
+- 119
+- 121
+water_overlay.png:
+- 165
+- 165
+- 165
+wet_sponge.png:
+- 171
+- 181
+- 70
+white_concrete.png:
+- 207
+- 213
+- 214
+white_concrete_powder.png:
+- 225
+- 227
+- 227
+white_glazed_terracotta.png:
+- 188
+- 212
+- 202
+white_shulker_box.png:
+- 215
+- 220
+- 221
+white_stained_glass.png:
+- 255
+- 255
+- 255
+white_terracotta.png:
+- 209
+- 178
+- 161
+white_wool.png:
+- 233
+- 236
+- 236
+yellow_concrete.png:
+- 240
+- 175
+- 21
+yellow_concrete_powder.png:
+- 232
+- 199
+- 54
+yellow_glazed_terracotta.png:
+- 234
+- 192
+- 88
+yellow_shulker_box.png:
+- 248
+- 188
+- 29
+yellow_stained_glass.png:
+- 229
+- 229
+- 51
+yellow_terracotta.png:
+- 186
+- 133
+- 35
+yellow_wool.png:
+- 248
+- 197
+- 39
