@@ -9,8 +9,8 @@ if ARGV.length != 2
     exit
 end
 
-src_image = ARGV[0]
-dest_image = ARGV[1]
+$src_image = ARGV[0]
+$dest_image = ARGV[1]
 
 def main
     # check if our averages are up to date
@@ -26,7 +26,7 @@ def main
 
     # load the image
     puts "=== Loading image ==="
-    image = MiniMagick::Image.open src_image
+    image = MiniMagick::Image.open $src_image
     pixels = image.get_pixels
     
     # load averages
@@ -49,7 +49,7 @@ def main
         montage << "-mode" << "concatenate"
         montage << "-tile" << "#{image.width}x"
         montage.merge! new_pixels
-        montage << dest_image
+        montage << $dest_image
     end
 end
 
