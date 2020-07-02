@@ -26,7 +26,7 @@ def main
 
     # load the image
     puts "=== Loading image ==="
-    image = MiniMagick::Image.open ARGV[0]
+    image = MiniMagick::Image.open src_image
     pixels = image.get_pixels
     
     # load averages
@@ -49,7 +49,7 @@ def main
         montage << "-mode" << "concatenate"
         montage << "-tile" << "#{image.width}x"
         montage.merge! new_pixels
-        montage << "output.png"
+        montage << dest_image
     end
 end
 
